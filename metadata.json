@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Karya — Company Profile & Brand Customizer",
+  "description": "Website Company Profile korporat modern, responsif, dan interaktif dengan kustomisasi logo, warna tema, simulasi estimasi biaya, dan ekspor satu file HTML lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
